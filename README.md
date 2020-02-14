@@ -1,4 +1,4 @@
-# Todd Davis BitSight Front End Challenge Submission
+# Todd Davis Front End Challenge Submission
  
 
  This project written in ReactJS and bootstrapped with create-react-app. It uses Typescript for static typing and Material-ui for ui components and layout. 
